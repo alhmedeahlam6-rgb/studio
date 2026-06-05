@@ -1,0 +1,12 @@
+source/*
+docs/*
+node_modules/*
+source/*
+.editorconfig
+.eslintignore
+.eslintrc.js
+CNAME
+config.json
+debug.log
+package-lock.json
+webpack.*
